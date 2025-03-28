@@ -11,8 +11,5 @@ programming_language: Go
 content:
   - Topics
   - In-Memory Notepad
-additional_files:
-  - name: .idea/inspectionProfiles/Project_Default.xml
-  - name: requirements.txt
 mode: Study
 yaml_version: 2
